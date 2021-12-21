@@ -11,7 +11,7 @@ En el curso aprendi desde menor a mayor como crear sitios 100% responsives con e
 
 <h3>E-commerce:Tienda de Muebles</h3>
   <br>
-    <img style = "width: 30%;" src = "screenshots/ecommerce1.jpg">
+    <img style = "width: 30%;" src = "screenshots/ecommerce1.png">
   
   <p>Proyecto de e-commerce, solamente usando bootstrap, html, css y javascript.</p>
   
@@ -29,7 +29,7 @@ En el curso aprendi desde menor a mayor como crear sitios 100% responsives con e
  
  <h3>Landing Page - Podcast FM</h3>
   <br>
-    <img style = "width: 30%;" src = "screenshots/podcast1.jpg">
+    <img style = "width: 30%;" src = "screenshots/podcast1.png">
   
   <p>Proyecto realizado con bootstrap personalizado en Sass.</p>
   Workflow creado mediante Gulp y distintas dependencias.
@@ -48,7 +48,7 @@ En el curso aprendi desde menor a mayor como crear sitios 100% responsives con e
  
  <h3>Clon de Udemy - Front Page!</h3>
   <br>
-    <img style = "width: 30%;" src = "screenshots/udemy1.jpg">
+    <img style = "width: 30%;" src = "screenshots/udemy1.png">
   
   <p>Proyecto realizado con bootstrap personalizado en Sass.</p>
   Workflow creado mediante Gulp y distintas dependencias.
@@ -67,7 +67,7 @@ En el curso aprendi desde menor a mayor como crear sitios 100% responsives con e
  
  <h3>E-commerce: Tienda de guitarras</h3>
   <br>
-    <img style = "width: 30%" src = "screenshots/guitarras1.jpg">
+    <img style = "width: 30%" src = "screenshots/guitarras1.png">
   
   <p>Proyecto realizado con bootstrap personalizado en Sass.</p>
   Workflow creado mediante Gulp y distintas dependencias.
